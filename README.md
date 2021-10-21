@@ -1,5 +1,6 @@
 - 👋 Hi, I’m FranticDreamer
 - 👀 I’m interested in Programming and Game Development
+- ⌨️ Now I'm working on: https://github.com/edgarbarney/halflife-planckepoch/tree/spirit/spirit-1.8-trinity
 - 📫 How to reach me:
 - - Discord: FranticDreamer#0420
 - - Steam: https://steamcommunity.com/id/franticdreamer
