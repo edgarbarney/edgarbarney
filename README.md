@@ -3,7 +3,7 @@
 - ⌨️ Now I'm working on:
 - - [A custom renderer (and a modbase) for Half-Life](https://github.com/edgarbarney/halflife-planckepoch/tree/spirit/spirit-1.8-trinity)
 - - [A Story based FPS game in UE5](https://store.steampowered.com/app/1353210/CAPITAL/)
-- - Small Casual Games is Unity
+- - Small Casual Games in Unity
 - 📫 How to reach me:
 - - E-mail: edwardgmgmd@gmail.com
 - - Discord: FranticDreamer#0420
