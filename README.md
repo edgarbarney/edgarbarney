@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FranticDreamer
 - 👀 I’m interested in Programming and Game Development
 - ⌨️ Now I'm working on:
-- - [A custom renderer (and a modbase) for Half-Life](https://github.com/edgarbarney/halflife-planckepoch/tree/spirit/spirit-1.8-trinity)
+- - A 2D Game Engine
 - - [A Story based FPS game in UE5](https://store.steampowered.com/app/1353210/CAPITAL/)
 - - Small Casual Games in Unity
 - 📫 How to reach me:
