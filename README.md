@@ -6,7 +6,7 @@
 - - Small Casual Games in Unity
 - 📫 How to reach me:
 - - E-mail: edwardgmgmd@gmail.com
-- - Discord: FranticDreamer#0420
+- - Discord: FranticDreamer
 - - Steam: https://steamcommunity.com/id/franticdreamer
 - - Unreal Marketplace: https://www.unrealengine.com/marketplace/en-US/profile/FranticDreamer
 # 
